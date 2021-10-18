@@ -1,0 +1,11 @@
+fieldset {
+    margin: 20px 0;
+}
+
+fieldset label {
+    display: block;
+}
+
+input {
+    margin: 5px 0;
+}
